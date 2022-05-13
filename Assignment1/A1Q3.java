@@ -1,4 +1,5 @@
 class A1Q3{
+    // WAP to fiind the reverse of a number and find its time complexity
     public static int reverseNumber(int n) {
 		int result = 0;
 		//Time complexity will be log10(n) -> as there will be log10(digits);
